@@ -5,15 +5,16 @@ This is a group lab, so make sure you are working in a group of 2-4 students
 Have you ever seen a Two Step?  It is _not_ two steps! It is at least
 ten... maybe even twenty or thirty steps. And that's only if we stop dancing!
 
-The trick to learning something like the Two Step, and with most complex dances,
-is that a complicated dance is actually just short, simple moves repeating over
-and over, in a _loop_.
+The trick to learning something like the Two Step along with most complex dances,
+is that a complicated dance is actually just made up of short, simple moves,
+repeating over and over, in a _loop_. Once you learn the simple moves,
+all you need to do is loop them together.
 
 Let's learn some Two Step! We can use Ruby loops to help us out.
 
 # Part I: The First Steps
 
-In `two_step_and_repeate.rb`, Implement the first_steps method. This method
+In `two_step_and_repeat.rb`, Implement the first_steps method. This method
 should include a loop that outputs the following in your terminal endlessly,
 until you press `ctrl+c`.
 
@@ -34,7 +35,7 @@ pause. The last `sleep` is set to pause for 1 second, giving us a moment to
 catch our breath before the loop starts over.
 
 To see how this looks in your terminal, you can load up the
-`two_step_and_repeate.rb` file in IRB by entering the following in your terminal:
+`two_step_and_repeat.rb` file in IRB by entering the following in your terminal:
 
 ```
 irb -r ./two_step_and_repeat.rb
