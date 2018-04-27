@@ -37,7 +37,7 @@ catch our breath before the loop starts over.
 To see how this looks in your terminal, you can load up the
 `two_step_and_repeat.rb` file in IRB by entering the following in your terminal:
 
-```
+```bash
 irb -r ./two_step_and_repeat.rb
 ```
 
