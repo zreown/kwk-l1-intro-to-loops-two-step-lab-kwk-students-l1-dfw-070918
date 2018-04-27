@@ -12,7 +12,7 @@ all you need to do is loop them together.
 
 Let's learn some Two Step! We can use Ruby loops to help us out.
 
-# Part I: The First Steps
+## Part I: The First Steps
 
 In `two_step_and_repeat.rb`, Implement the first_steps method. This method
 should include a loop that outputs the following in your terminal endlessly,
@@ -45,7 +45,7 @@ Once you're in IRB, type in `first_steps` to start the loop. Use `ctrl+c` to get
 and `ctrl+d` to close IRB.  You'll have to run the line above each time your update
 your methods in order to see them in action.
 
-# Part 2: A Few More Steps
+## Part 2: A Few More Steps
 
 Wait... we're only going backwards! We need to at least _turn_. In the second
 Ruby method, we will expand our dance moves.  Implement a_few_more_steps with a
@@ -59,7 +59,7 @@ outputs the following separated by `sleep(0.5)`:
 Now we're moving... to the right! To finish this second set of moves, add one more
 `puts`, "Turn", followed by `sleep(1)`.
 
-# Part 3: Just How Many Steps Do We Need To Take?
+## Part 3: Just How Many Steps Do We Need To Take?
 
 Our dance moves are great, but how many steps are we making in these endless loops? Well, it turns out, we can count _in_ our loops using a variable.  Inside how_many_steps?, implement the following:
 
@@ -116,7 +116,7 @@ Right
 Left
 ```
 
-# Summary
+## Summary
 
 * Loops can be very useful for repeating steps in our code
 * Loops will go on forever unless there is a way to tell them to stop
