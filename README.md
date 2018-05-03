@@ -12,7 +12,7 @@ all you need to do is loop them together.
 
 Let's learn some Two Step! We can use Ruby loops to help us out.
 
-## Part I: The First Steps
+## Part 1: The First Steps
 
 In `two_step_and_repeat.rb`, Implement the `first_steps` method. This method
 should include a loop that outputs the following in your terminal endlessly,
@@ -73,7 +73,7 @@ outputs 'Left', otherwise, it should output 'Right'
 
 Make sure to take a look at the loop in your terminal to see if it is doing what you expect. This may require a number of.. steps.. so take your time and plan it out.
 
-# Part 4: Break Dancing
+## Part 4: Break Dancing
 
 Okay, I think we need a break, and so do our loops. While infinite loops are
 cool, they aren't very useful because _we_ have to tell them to stop
