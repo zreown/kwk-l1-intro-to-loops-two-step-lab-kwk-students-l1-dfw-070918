@@ -14,7 +14,7 @@ Let's learn some Two Step! We can use Ruby loops to help us out.
 
 ## Part I: The First Steps
 
-In `two_step_and_repeat.rb`, Implement the first_steps method. This method
+In `two_step_and_repeat.rb`, Implement the `first_steps` method. This method
 should include a loop that outputs the following in your terminal endlessly,
 until you press `ctrl+c`.
 
@@ -48,8 +48,8 @@ your methods in order to see them in action.
 ## Part 2: A Few More Steps
 
 Wait... we're only going backwards! We need to at least _turn_. In the second
-Ruby method, we will expand our dance moves.  Implement a_few_more_steps with a
-loop that includes all the steps from first_steps, but immediately after,
+Ruby method, we will expand our dance moves.  Implement `a_few_more_steps` with a
+loop that includes all the steps from `first_steps`, but immediately after,
 outputs the following separated by `sleep(0.5)`:
 
 * "Right foot steps right and back"
@@ -61,7 +61,7 @@ Now we're moving... to the right! To finish this second set of moves, add one mo
 
 ## Part 3: Just How Many Steps Do We Need To Take?
 
-Our dance moves are great, but how many steps are we making in these endless loops? Well, it turns out, we can count _in_ our loops using a variable.  Inside how_many_steps?, implement the following:
+Our dance moves are great, but how many steps are we making in these endless loops? Well, it turns out, we can count _in_ our loops using a variable.  Inside `how_many_steps`?, implement the following:
 
 * Create a variable called `steps` and set it equal to zero
 * Just below this variable, write a loop that does four things:
