@@ -1,6 +1,18 @@
 def first_steps
-  # Write a loop that outputs "Right foot back", "Left foot back",
-  # "Right foot back", and "Stop", with sleep after each
+steps = 0 
+loop do
+  puts "Right foot back"
+  puts "Left foot back"
+  puts "Right foot back"
+  puts "Stop"
+  sleep += 1
+  if (steps % 2 == 0)
+    puts "left"
+  else
+    puts "right"
+end
+sleep(0.5)
+  end
 end
 
 def a_few_more_steps
